@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1555
     wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16719#The-Husbands-of-Edith
 gutenberg_issued: '2005-09-18'
 gutenberg_type: Text
 identifiers:
